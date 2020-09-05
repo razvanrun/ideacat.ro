@@ -63,7 +63,7 @@
         </div>
       </div>
       <div class="cprt">
-        <p>ItNext © Copyrights 2019 Design by html.design</p>
+        <p>IdeaCat © Copyrights 2020</p>
       </div>
     </div>
   </div>
